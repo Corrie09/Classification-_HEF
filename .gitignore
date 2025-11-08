@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# data files
+data/
+*.sqlite3
+*.db
+logs/
+*.log
+*.csv
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
